@@ -14,7 +14,8 @@ const quotes = [
   {quote: `In three words I can sum up everything I've learned about life: It goes on.`,
     source: `Robert Frost`,
     citation: `This Week Magazine`,
-    year: `1954`
+    year: `1954`,
+    tag: `Humor`
   },
 
   {quote: `They may forget what you said — but they will never forget how you made them feel.`,
@@ -28,13 +29,15 @@ const quotes = [
   {quote: `We are an impossibility in an impossible universe.`,
     source: `Ray Bradbury`,
     citation: `Assignment America`,
-    year: `1975`
+    year: `1975`,
+    tag: `Inspirational`
   },
 
   {quote: `We accept the love we think we deserve. `,
     source: `Stephen Chbosky`,
     citation: `The Perks of Being a Wallflower`,
-    year: `1999`
+    year: `1999`,
+    tag: `Insightful`
   }
 
 ];
