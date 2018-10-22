@@ -44,7 +44,7 @@ const quotes = [
 
 
 // Creates a function that generates a random quote object
-function getRandomQuote (array ) {
+function getRandomQuote () {
     let quoteNum = Math.floor( Math.random() * quotes.length  );
     let ranQuote = quotes[quoteNum];
     return ranQuote;
